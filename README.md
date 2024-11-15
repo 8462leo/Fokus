@@ -26,9 +26,6 @@ Para entrar em contato, por favor, envie um email para leonardo29benvenutti@gmai
 As imagens foram geradas por Inteligência Artificial no Adobe Firefly.
 O projeto foi desenvolvido pela Alura.
 
-### Link do projeto:
-
-
 ### Foto inicial:
 
 ![image](https://github.com/user-attachments/assets/44a92e3f-d372-4d35-b847-b94f91227bf2)
