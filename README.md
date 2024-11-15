@@ -1,6 +1,6 @@
 # Projeto Fokus
 
-Este projeto é uma interface web simples para auxiliar no gerenciamento do tempo utilizando a técnica Pomodoro. Ele permite ao usuário selecionar períodos de foco e descanso, além de oferecer recursos como música ambiente e notificações sonoras.
+Este projeto é uma interface web para auxiliar no gerenciamento do tempo utilizando a técnica Pomodoro. Ele permite ao usuário selecionar períodos de foco e descanso, além de oferecer recursos como música ambiente e notificações sonoras.
 
 ## Tecnologias Utilizadas:
 
